@@ -24,4 +24,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandronabro&show_icons=true&theme=graywhite )
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
