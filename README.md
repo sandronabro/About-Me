@@ -20,4 +20,4 @@ I'm very passionate about programming. Welcome to my corner on GitHub!
 Feel free to explore my repositories and reach out if you have any questions or just want to connect. Happy coding! 🚀
 
 ![](https://komarev.com/ghpvc/?username=sandronabro)
-[![GitHub Streak](https://streak-stats.demolab.com/?sandronabro=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sandronabro&theme=dark)](https://git.io/streak-stats)
