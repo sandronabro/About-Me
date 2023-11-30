@@ -19,4 +19,4 @@ I'm very passionate about programming. Welcome to my corner on GitHub!
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect. Happy coding! 🚀
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?sandronabro=DenverCoder1)](https://git.io/streak-stats)
