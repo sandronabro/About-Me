@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/f1/e0/68/f1e068c8ee23c317dcf45978add9109f.gif)](https://github.com/sandronabro)
+[![MasterHead](https://i.pinimg.com/originals/f7/ce/10/f7ce103ac66f26635ce6b3536a283886.gif)](https://github.com/sandronabro)
 
 
 # Hello, I'm Sandro! 👋
