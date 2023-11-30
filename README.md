@@ -19,7 +19,7 @@ I'm very passionate about programming. Welcome to my corner on GitHub!
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect. Happy coding! 🚀
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ![](https://komarev.com/ghpvc/?username=sandronabro)
