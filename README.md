@@ -20,10 +20,4 @@ I'm very passionate about programming. Welcome to my corner on GitHub!
 Feel free to explore my repositories and reach out if you have any questions or just want to connect. Happy coding! 🚀
 
 ![](https://komarev.com/ghpvc/?username=sandronabro)
-
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "sandronabro",
-  "username": "sandronabro"
-}
+[![GitHub Streak](https://streak-stats.demolab.com/?sandronabro=DenverCoder1)](https://git.io/streak-stats)
