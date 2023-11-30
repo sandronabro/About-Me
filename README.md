@@ -21,8 +21,10 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 
 ![](https://komarev.com/ghpvc/?username=sandronabro)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandronabro&show_icons=true&theme=graywhite)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sandronabro)](https://github.com/anuraghazra/github-readme-stats)
