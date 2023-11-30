@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.fbsbx.com/v/t59.2708-21/406967206_867481905033339_8992438783285717772_n.gif?_nc_cat=111&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=4ewlvJRdhCAAX8HUQsX&_nc_ht=cdn.fbsbx.com&oh=03_AdTtG9fkDfMY89wTclZ8xbbw7B2YrbjpH5Djqa5-lBUadg&oe=656B0340)](https://github.com/sandronabro)
+[![MasterHead](https://i.pinimg.com/originals/f1/e0/68/f1e068c8ee23c317dcf45978add9109f.gif)](https://github.com/sandronabro)
 
 
 # Hello, I'm Sandro! 👋
@@ -23,5 +23,5 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ![](https://komarev.com/ghpvc/?username=sandronabro)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sandronabro&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandronabro&show_icons=true&theme=graywhite )
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
