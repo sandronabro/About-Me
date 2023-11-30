@@ -19,11 +19,12 @@ I'm very passionate about programming. Welcome to my corner on GitHub!
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect. Happy coding! 🚀
 
-![](https://komarev.com/ghpvc/?username=sandronabro)
-
 # Joke of the day
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+![](https://komarev.com/ghpvc/?username=sandronabro)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sandronabro&theme=transparent&hide_border=true)](https://git.io/streak-stats)
