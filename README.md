@@ -1,3 +1,6 @@
+[![MasterHead](https://cdn.fbsbx.com/v/t59.2708-21/406967206_867481905033339_8992438783285717772_n.gif?_nc_cat=111&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=4ewlvJRdhCAAX8HUQsX&_nc_ht=cdn.fbsbx.com&oh=03_AdTtG9fkDfMY89wTclZ8xbbw7B2YrbjpH5Djqa5-lBUadg&oe=656B0340)](https://github.com/sandronabro)
+
+
 # Hello, I'm Sandro! 👋
 
 I'm very passionate about programming. Welcome to my corner on GitHub!
@@ -16,4 +19,4 @@ I'm very passionate about programming. Welcome to my corner on GitHub!
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect. Happy coding! 🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
