@@ -26,5 +26,5 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandronabro&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandronabro&show_icons=true&theme=dark)
 
