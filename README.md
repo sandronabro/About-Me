@@ -23,5 +23,6 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ![](https://komarev.com/ghpvc/?username=sandronabro)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandronabro&show_icons=true&theme=graywhite )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandronabro&show_icons=true&theme=graywhite)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
