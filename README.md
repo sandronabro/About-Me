@@ -24,7 +24,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sandronabro&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
