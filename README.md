@@ -21,7 +21,9 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ![](https://komarev.com/ghpvc/?username=sandronabro)
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sandronabro&theme=transparent&hide_border=true)](https://git.io/streak-stats)
