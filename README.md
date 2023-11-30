@@ -23,4 +23,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sandronabro&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sandronabro&theme=transparent&hide_border=true)](https://git.io/streak-stats)
