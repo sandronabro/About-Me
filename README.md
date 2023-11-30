@@ -1,1 +1,17 @@
-# About-Me
+# Hello, I'm Sandro! 👋
+
+I'm very passionate about programming. Welcome to my corner on GitHub!
+
+## About Me
+
+- 🌐 I'm from Georgia.
+- 🎓 Currently studying as a programmer at Gaol-Oriented Academy
+- 🚀 I'm interested in music, programming
+
+## Let's Connect
+
+- 📧 Email: sandrojalaghonia707@gmail.com
+- 💼 Discord: it.stormy
+- 🐦 Twitter: Dont have that lol.
+
+Feel free to explore my repositories and reach out if you have any questions or just want to connect. Happy coding! 🚀
