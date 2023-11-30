@@ -25,4 +25,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandronabro&show_icons=true&theme=graywhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
