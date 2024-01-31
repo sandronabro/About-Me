@@ -8,7 +8,7 @@ I'm very passionate about programming. Welcome to my corner on GitHub!
 ## About Me
 
 - 🌐 I'm from Georgia.
-- 🎓 Currently studying as a programmer at Goall-Oriented Academy
+- 🎓 Currently studying as a programmer at Goal-Oriented Academy
 - 🚀 I'm interested in music, programming
 
 ## Let's Connect
